@@ -4,7 +4,6 @@ Implementation of some functions from the Standard C Library plus extra ones. [2
 ### Table of contents
 - [Description](#description)
 - [How does it work?](#how-does-it-work)
--
 
 ## Description
 C programming can be very tedious when one doesn’t have access to those highly useful standard functions. This project makes
