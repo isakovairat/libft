@@ -18,4 +18,7 @@ To create that library, after downloading/cloning this project, **cd** into the 
       cd libft
       make
 
+You will see a library *libft.a* file and some object files (.o).
+So that's it!
+
 [1]: https://21-school.ru/
