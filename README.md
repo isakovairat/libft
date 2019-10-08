@@ -1,5 +1,5 @@
 # Libft project for 21 school
-Implementation of some functions from the Standard C Library plus extra ones. https://21-school.ru/
+Implementation of some functions from the Standard C Library plus extra ones. [21-school][1]
 
 ### Table of contents
 - [Description](#description)
