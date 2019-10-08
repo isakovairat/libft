@@ -10,8 +10,8 @@ C programming can be very tedious when one doesn’t have access to those highly
 you to take the time to re-write those functions, understand them, and learn to use them.
 
 ## How does it work?
-The main aim is to create a library called libft.a from the source files which I can use that library for my future projects at [21 school][1].
-To create that library, after downloading/cloning this project, **cd** into the project and call make:
+The main aim is to create a library called *libft.a* from the source files which I can use that library for my future projects at [21 school][1].
+To create that library, after downloading/cloning this project, **cd** into the project and call **make**:
 
       git clone https://github.com/isakovairat/libft
       cd libft
