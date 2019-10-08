@@ -13,7 +13,7 @@ you to take the time to re-write those functions, understand them, and learn to 
 The main aim is to create a library called *libft.a* from the source files which I can use that library for my future projects at [21 school][1].
 To create that library, after downloading/cloning this project, **cd** into the project and call **make**:
 
-      git clone https://github.com/isakovairat/libft.git
+      git clone https://github.com/isakovairat/libft
       cd libft
       make
 
