@@ -1,4 +1,4 @@
-![image](https://irecommend.img.c3.r-99.com/sites/default/files/product-images/607296/EkiZ1RZSJLsEKx7bzK1flg.png)
+![image](https://irecommend.img.c3.r-99.com/sites/default/files/product-images/607296/EkiZ1RZSJLsEKx7bzK1flg.png =250x250)
 # Libft project for 21 school
 Implementation of some functions from the Standard C Library plus extra ones. [21 school][1]
 
