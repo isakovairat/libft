@@ -1,4 +1,4 @@
-![](https://irecommend.img.c3.r-99.com/sites/default/files/product-images/607296/EkiZ1RZSJLsEKx7bzK1flg.png | width=40)
+![](https://i.otzovik.com/objects/b/1380000/1371129.png)
 # Libft project for 21 school
 Implementation of some functions from the Standard C Library plus extra ones. [21 school][1]
 
