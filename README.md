@@ -1,5 +1,4 @@
-
-![](https://sun9-55.userapi.com/c845219/v845219416/75ef4/_KaBeafQd-s.jpg)
+<img src="https://sun9-55.userapi.com/c845219/v845219416/75ef4/_KaBeafQd-s.jpg" width=150>\
 
 # Libft project for 21 school
 Implementation of some functions from the Standard C Library plus extra ones. [21 school][1]
